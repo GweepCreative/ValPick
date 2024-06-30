@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "valpick",
+    "slug": "valpick",
+    "scheme": "valpick",
+    "plugins": ["expo-router"],
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
